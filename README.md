@@ -6,7 +6,7 @@ Christmas card set in LaTeX with EBGaramond.
 
 ## License
 
-The orignal images belongs to [u/ImACumWhore](https://www.reddit.com/user/ImACumWhore) on reddit. They have all the rights to it.
+The orignal images belongs to [u/ImACumWhore](https://www.reddit.com/user/ImACumWhore) on reddit. They have all the rights to it. It was originally shared in [a post](https://www.reddit.com/r/MedievalCats/comments/e713ht/king_derpy/) on [r/MedievalCats](https://www.reddit.com/r/MedievalCats/). It was modified in GIMP.
 
 The LaTeX source and the PDF are otherwise licensed under the MIT License; feel free to modify or reuse it:
 
